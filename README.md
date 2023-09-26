@@ -17,7 +17,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 ![Alt text](WechatIMG839.jpeg)
 
 4. * **Link to HW00**:
-[Alt text](https://github.com/MACS-30111-23/hw00-MaxwelllzZ)
+[My Homework00 page link](https://github.com/MACS-30111-23/hw00-MaxwelllzZ)
 
 5. * **Summary**:
 *During the progress I complete this assigment, I have used knowledge learned from the camp. I copied SSH link from the github and create according repository in VS code. By editing in the README.md file directly, I completed most tasks except getting the images of me. For that I uploaded a photo file on github before using the photo link in README.md. I also tried to drag and drop the photo file into the README.md directly, which sort of work but only gives the image in a separate window.*
