@@ -9,6 +9,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.) 
 
+## Things about me 
 1. * **Name**: *Sitong Zhang*
 
 2. * **Biography**: *Hi! I am Sitong Zhang and also go by Maxwell. I am a first year student in MACSS-ECON. Below is a headshot of mine which was taken couple days ago.*
